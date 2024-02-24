@@ -18,7 +18,8 @@
 ![Eder GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostkiller5874&show_icons=true&theme=dark)
 
 ## Linguagens Utilizadas (*projetos publicos*)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostkiller5874&compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostkiller5874&donut)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostkiller5874&layout=donut)](https://github.com/ghostkiller5874/github-readme-stats)
 <!--
 **ghostkiller5874/ghostkiller5874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
