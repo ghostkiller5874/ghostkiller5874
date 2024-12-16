@@ -1,4 +1,4 @@
-# Olá! Sou Eder M. desenvolvedor web, mobile e de games
+# Olá! Sou Eder M. desenvolvedor web!
 
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-green?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/ghostkiller5874)
